@@ -1,6 +1,6 @@
 Feature: A feature test
 
-  @ORPHAN
+  @BDD-1 @OPEN
   Scenario: My test should be awesome
     Given GOT
     When winter is coming
